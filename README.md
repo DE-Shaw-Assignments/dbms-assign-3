@@ -1,4 +1,4 @@
-# DBMS Assignment 2
+# DBMS Assignment 3
 
 ## Query 1
 
